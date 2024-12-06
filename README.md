@@ -22,7 +22,7 @@ Welcome to the **Bitkub OSS Application** repository! This application is built 
 
 ### Projects Page
 
-![Projects Page](path_to_screenshot_projects_page.png)
+![Projects Page](project.png)
 
 ### Newsroom Page
 
