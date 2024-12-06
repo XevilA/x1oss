@@ -36,7 +36,7 @@ To run this project locally, follow these steps:
 
    ```bash
 
-   git clone https://github.com/yourusername/bitkub-oss-app.git
+   git clone https://github.com/XevilA/x1oss.git
 
    ```
 
@@ -44,7 +44,7 @@ To run this project locally, follow these steps:
 
    ```bash
 
-   cd bitkub-oss-app
+   cd x1oss
 
    open BitkubOSS.xcodeproj
 
