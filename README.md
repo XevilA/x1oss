@@ -18,7 +18,7 @@ Welcome to the **Bitkub OSS Application** repository! This application is built 
 
 ### Home Page
 
-![Home Page](path_to_screenshot_home_page.png)
+![Home Page](all.png)
 
 ### Projects Page
 
@@ -26,7 +26,7 @@ Welcome to the **Bitkub OSS Application** repository! This application is built 
 
 ### Newsroom Page
 
-![Newsroom Page](path_to_screenshot_newsroom_page.png)
+![Newsroom Page](xone.png)
 
 ## Installation
 
